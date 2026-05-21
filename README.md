@@ -1,1 +1,1 @@
-Used AI to make a site where I can do some API test requests.
+Built a mini web-based API testing environment with the help of AI.
